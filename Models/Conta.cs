@@ -22,7 +22,7 @@ namespace ExemploPOO.Models
         {
 
             Console.WriteLine($"Depósito no valor de {valor}, realizado com sucesso!");
-            saldo = saldo + valor;
+            saldo += valor;
 
         }
         public void Sacar(decimal valor)
@@ -39,7 +39,7 @@ namespace ExemploPOO.Models
             {
 
                 Console.WriteLine($"Saque no valor de {valor}, realizado com sucesso!");
-                saldo = saldo - valor;
+                saldo -= valor;
 
             }
 

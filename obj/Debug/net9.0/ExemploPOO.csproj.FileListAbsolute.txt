@@ -12,3 +12,4 @@ C:\_GitHub\Dio\GFT-Start7\ExemploPOO\obj\Debug\net9.0\refint\ExemploPOO.dll
 C:\_GitHub\Dio\GFT-Start7\ExemploPOO\obj\Debug\net9.0\ExemploPOO.pdb
 C:\_GitHub\Dio\GFT-Start7\ExemploPOO\obj\Debug\net9.0\ExemploPOO.genruntimeconfig.cache
 C:\_GitHub\Dio\GFT-Start7\ExemploPOO\obj\Debug\net9.0\ref\ExemploPOO.dll
+C:\_GitHub\Dio\GFT-Start7\ExemploPOO\obj\Debug\net9.0\ExemploPOO.sourcelink.json
